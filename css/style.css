@@ -1,0 +1,44 @@
+body{
+    position:sticky;
+    background-position: center center;
+    background-size:cover;
+    
+   background-repeat: no-repeat;
+  
+    background-attachment: fixed;
+    background-image: url(../img/pexels-josh-hild-4256852.jpg);
+}
+.section-5{
+    background-image: url(../img/pexels-nitin-arya-1029141.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 40%;
+  
+  
+    overflow: hidden;
+}
+.single-box{
+    position: relative;
+    margin-bottom:70px;
+    height: 290px;
+}
+.carousel-indicators{
+    top:auto;
+    left: 0;
+    bottom: -70px;
+}
+.section-7{
+    overflow: hidden;
+}
+
+
+    
+
+
+
+
+
+    
+
+    
+    
